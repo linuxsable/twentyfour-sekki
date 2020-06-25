@@ -1,0 +1,16 @@
+{
+  "name": "twentyfour-sekki",
+  "version": "1.0.1",
+  "description": "The year divided by 24 seasons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Van Hoomissen",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "moment": "^2.27.0"
+  },
+  "bin": "index.js"
+}
